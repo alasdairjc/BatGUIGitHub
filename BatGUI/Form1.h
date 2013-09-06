@@ -22,6 +22,7 @@ namespace BatGUI {//rest of program included within this bracket
 	using namespace System::Data::OleDb;//sub-directory under System
 	/// <summary>
 	/// Summary for Form1
+	// Kindly check my comment and incorporate - Vish
 	/// </summary>
 	public ref class Form1 : public System::Windows::Forms::Form//Form1 is public access, everything after bracket below is Form1
 	{
