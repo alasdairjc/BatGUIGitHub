@@ -23,6 +23,7 @@ namespace BatGUI {//rest of program included within this bracket
 	/// <summary>
 	/// Summary for Form1
 	// Kindly check my comment and incorporate - Vish
+	//highly obliged if you would give this your kind consideration
 	/// </summary>
 	public ref class Form1 : public System::Windows::Forms::Form//Form1 is public access, everything after bracket below is Form1
 	{
