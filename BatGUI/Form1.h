@@ -1470,6 +1470,7 @@ private: System::Windows::Forms::OpenFileDialog^  openFileDialog1;
 			this->ResumeLayout(false);
 
 		}//GUI portion has ended
+		//Testing commit and sing Dec 20 2013
 #pragma endregion
 		public: void InitializeCostParameters()//InitializeCostParameters is a function that executes steps below
 				{
